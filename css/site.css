@@ -101,6 +101,13 @@ hr {
   	color: #660033;
 }
 
+.navbar-default img {
+	width: 30px;
+	height: auto;
+	display: inline-block;
+	position: relative;
+}
+
 /* End Navbar Styles */
 
 /* Jumbotron Styles */
