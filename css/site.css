@@ -24,6 +24,14 @@ h4 {
   	font-style: italic;
 }
 
+ul {
+	list-style: none;
+}
+
+hr {
+	border-color: #777B88;
+}
+
 .img-thumbnail {
 	width: 100px;
 	height: auto;
